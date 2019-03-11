@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6f68153d7f91fe944a63c212f05776ab
+timeCreated: 1459789831
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - beginTexts: {instanceID: 0}
+  - quest1Text: {instanceID: 0}
+  - quest2Text: {instanceID: 0}
+  - quest2Finish: {instanceID: 0}
+  - quest3Text: {instanceID: 0}
+  - beginQuests: {instanceID: 0}
+  - quest1: {instanceID: 0}
+  - quest2: {instanceID: 0}
+  - quest3: {instanceID: 0}
+  - allfound: {instanceID: 0}
+  - customSkin: {fileID: 11400000, guid: 9890c727234e8614cb9baad9d63fa63a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
